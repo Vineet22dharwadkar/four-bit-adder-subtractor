@@ -25,5 +25,6 @@ Clone the repository.
 Compile the Verilog files using tools like Vivado, ModelSim, or Xilinx ISE.
 Run the simulation to verify the waveforms and output.
 ![Image](https://github.com/user-attachments/assets/b3058407-08bd-4231-9ac5-6f47f3d1cdf4)
-![Image](https://github.com/user-attachments/assets/0d730df0-d036-4b85-968f-aa4438445bc7)
 ![Image](https://github.com/user-attachments/assets/be191475-43ab-4758-a61a-26df96ffcef7)
+![Image](https://github.com/user-attachments/assets/0d730df0-d036-4b85-968f-aa4438445bc7)
+
